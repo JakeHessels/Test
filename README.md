@@ -1,3 +1,3 @@
-**IMDB Webscraping project**
+# IMDB Webscraping project
 
-creating interactive movie suggestions from IMDB
+Creating interactive movie suggestions from IMDB
